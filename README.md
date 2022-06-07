@@ -68,3 +68,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Easybank landing page
+
+> ## Sobre o projeto
+
+Um desafio do site frontendmentor que se trata de uma landing page responsiva.
+
+> ## Tecnologias usadas
+
+* ReactJs
+* styled-components
+
+[Link para ver como ficou o projeto](http://easybank-landing-page-three-omega.vercel.app/)
+
+
